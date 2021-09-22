@@ -1,0 +1,3 @@
+I am a full stack developer with having 2+ years of experience in Web App Development, Website Development, Web Design,
+Hybrid Application Development using PHP, Laravel, Codeigniter, WordPress, Ajax, .NET, JavaScript, jQuery, CRUD, PSD to HTML, 
+PSD to WordPress, Bootstrap, Responsive Design, Codecanyon Script and many more...
